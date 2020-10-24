@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsalcedo1987&show_icons=true&theme=radical&count_private=true&hide=prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsalcedo1987&show_icons=true&theme=radical&count_private=true&hide=prs,stars" />
 </p>
