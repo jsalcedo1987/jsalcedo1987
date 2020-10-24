@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="bio.png" alt="bio" width="800">
-</p>
-
 <h2 align="center">You can reach me at 🌍</h2>
 <p align="center">
   <a href="https://dev.to/jaimesc87">
