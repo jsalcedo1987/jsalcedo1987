@@ -1,4 +1,4 @@
-<h2 align="center">You can reach me at 🌍</h2>
+<h2 align="center">You can reach me at:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/jaimesalcedo/"><img src="https://img.shields.io/badge/-@jaimesalcedo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jaimesalcedo/" alt="LinkedIn Badge"></a> 
 <a href="https://dev.to/jaimesc87"><img src="https://img.shields.io/badge/-@jaimesc87-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/jaimesc87" alt="DevTo Badge"></a>
