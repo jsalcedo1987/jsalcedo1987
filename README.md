@@ -1,5 +1,6 @@
 <h2 align="center">You can reach me at:</h2>
 <p align="center">
+<a href="https://2sherpas.github.io/"><img src="https://img.shields.io/badge/-@blog2sherpas-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=blogger&amp;link=https://2sherpas.github.io/" alt="Blog Badge"></a> 
 <a href="https://www.linkedin.com/in/jaimesalcedo/"><img src="https://img.shields.io/badge/-@jaimesalcedo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jaimesalcedo/" alt="LinkedIn Badge"></a> 
 <a href="https://dev.to/jaimesc87"><img src="https://img.shields.io/badge/-@jaimesc87-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/jaimesc87" alt="DevTo Badge"></a>
 <a href="https://stackoverflow.com/users/6518928/jaime-s?tab=profile"><img src="https://img.shields.io/badge/-@Jaime S-F48024?style=flat-square&amp;labelColor=0A0A0A&amp;logo=stackoverflow&amp;link=https://stackoverflow.com/users/6518928/jaime-s?tab=profile" alt="DevTo Badge"></a>
